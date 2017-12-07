@@ -13,3 +13,7 @@ To prove this hypothesis I scraped career box score data for Blake Griffin for h
 ![alt text](https://github.com/jamesyh/blake-griffin/blob/master/images/prob-three.jpeg)
 ![alt text](https://github.com/jamesyh/blake-griffin/blob/master/images/made-three.jpeg)
 ![alt text](https://github.com/jamesyh/blake-griffin/blob/master/images/taken-three.jpeg)
+
+
+
+The graphs show that for his 7th season the probability of him making a three point shot isn't different from his other seasons. However, the graphs clearly show that he took more three point shots per game in his 7th season and also made more. This shows that Blake Griffen hasn't improved his three point shooting ability but has started taking more three point shots per game.
